@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7061e6"/><stop offset="1" stop-color="#25bd9a"/></linearGradient></defs>
+<rect width="1600" height="650" rx="34" fill="url(#a)"/><circle cx="1300" cy="325" r="250" fill="#fff" opacity=".09"/><circle cx="1300" cy="325" r="190" fill="#fff" opacity=".08"/>
+<text x="105" y="150" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="5" fill="#d8fff4">YOUR HEALTH, OUR PRIORITY</text>
+<text x="100" y="260" font-family="Arial,sans-serif" font-size="64" font-weight="700" fill="#fff">Care starts with</text><text x="100" y="340" font-family="Arial,sans-serif" font-size="64" font-weight="700" fill="#fff">one appointment.</text>
+<text x="105" y="405" font-family="Arial,sans-serif" font-size="25" fill="#e5fff8">Connect with trusted specialists at CareWell.</text>
+<rect x="105" y="465" width="275" height="70" rx="18" fill="#fff"/><text x="143" y="509" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#6254d6">BOOK YOUR VISIT →</text>
+<rect x="1110" y="175" width="300" height="300" rx="40" fill="#fff" opacity=".95"/><rect x="1170" y="235" width="180" height="180" rx="20" fill="#e6fbf5"/><path d="M1260 265v120m-60-60h120" stroke="#27b997" stroke-width="29" stroke-linecap="round"/><circle cx="1410" cy="180" r="33" fill="#ffd66e"/><circle cx="1080" cy="470" r="18" fill="#fff" opacity=".7"/>
+</svg>

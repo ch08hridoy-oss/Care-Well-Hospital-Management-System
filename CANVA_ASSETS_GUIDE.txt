@@ -1,0 +1,1 @@
+Upload SVG assets via Canva → Uploads → Upload files. Files: hospital-hero-banner.svg (1920x800), department-cards.svg (1600x900), appointment-promo.svg (1600x650), carewell-logo.svg. These are custom SVG graphics, not created inside Canva. If Canva imports an SVG as one graphic, recreate editable elements inside Canva and save a Canva design.

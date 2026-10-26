@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340">
+<defs><linearGradient id="scrub" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5fffa"/><stop offset="1" stop-color="#a4eadb"/></linearGradient><linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8c6a3"/><stop offset="1" stop-color="#d99170"/></linearGradient></defs>
+<circle cx="292" cy="173" r="147" fill="#fff" opacity=".10"/><circle cx="292" cy="173" r="118" fill="#fff" opacity=".08"/>
+<rect x="210" y="226" width="260" height="87" rx="23" fill="#fff" opacity=".16"/>
+<!-- doctor -->
+<path d="M244 146q-24 18-27 66l-8 83h127l-9-92q-4-42-34-58z" fill="url(#scrub)"/>
+<path d="M260 149l18 30 18-30 16 11-17 41h-35l-17-41z" fill="#fff"/>
+<path d="M272 176h13v35h-13z" fill="#24b99e"/><path d="M260 204h38" stroke="#24b99e" stroke-width="5" stroke-linecap="round"/>
+<path d="M243 169q-23 7-33 44l-14 31q-4 11 7 14 9 2 14-10l24-32" fill="url(#scrub)"/>
+<path d="M310 168q21 8 31 35l16 34q4 11-7 15-9 3-15-9l-25-31" fill="url(#scrub)"/>
+<rect x="254" y="89" width="65" height="77" rx="28" fill="url(#skin)"/>
+<path d="M252 117q-11-46 27-52 43-3 44 42l-10-7-9-19q-23 18-51 13z" fill="#35446d"/>
+<path d="M256 123q5 23 28 25 24-2 29-26l-4 31q-14 20-27 20-18-4-24-25z" fill="#f0b391"/>
+<circle cx="272" cy="117" r="3" fill="#35446d"/><circle cx="300" cy="117" r="3" fill="#35446d"/><path d="M278 133q7 6 14 0" stroke="#a65c51" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M259 160l22 22 21-22" fill="none" stroke="#fff" stroke-width="5"/>
+<!-- patient bed and patient -->
+<rect x="343" y="220" width="148" height="16" rx="8" fill="#fff" opacity=".9"/><path d="M365 236v52m111-52v52" stroke="#e8f5ff" stroke-width="8" stroke-linecap="round"/>
+<path d="M356 211q14-29 49-25l47 22q15 8 6 23H356z" fill="#d4f0ff"/>
+<circle cx="386" cy="191" r="19" fill="url(#skin)"/><path d="M367 190q-2-23 20-24 21 3 18 23l-9-7-19 1z" fill="#5a5578"/>
+<path d="M394 209l43 13-11 13-43-13z" fill="#fff"/>
+<!-- floating medical icons -->
+<circle cx="178" cy="84" r="26" fill="#fff" opacity=".17"/><path d="M178 70v28m-14-14h28" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+<circle cx="400" cy="82" r="20" fill="#fff" opacity=".16"/><path d="M390 82h20m-10-10v20" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<path d="M170 260q18-14 35 0" stroke="#fff" stroke-width="5" stroke-linecap="round" fill="none" opacity=".55"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="800" viewBox="0 0 1920 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f3ff"/><stop offset="1" stop-color="#e5fbf5"/></linearGradient><linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7b6aed"/><stop offset="1" stop-color="#29c7a0"/></linearGradient></defs>
+<rect width="1920" height="800" fill="url(#bg)"/><circle cx="1490" cy="390" r="350" fill="#d9f7ef"/><circle cx="1490" cy="390" r="275" fill="#c4eee6"/>
+<rect x="130" y="130" width="770" height="540" rx="45" fill="#fff" opacity=".65"/>
+<text x="190" y="255" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="6" fill="#6d5ce8">CAREWELL HOSPITAL</text>
+<text x="185" y="365" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#20243a">Compassionate</text><text x="185" y="450" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#20243a">care, better</text><text x="185" y="535" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#6d5ce8">tomorrows.</text>
+<text x="190" y="590" font-family="Arial,sans-serif" font-size="24" fill="#777e96">Modern care. Trusted specialists. A healthier you.</text>
+<rect x="190" y="620" width="235" height="60" rx="16" fill="#6d5ce8"/><text x="225" y="658" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">BOOK AN APPOINTMENT</text>
+<!-- doctor illustration -->
+<ellipse cx="1470" cy="700" rx="300" ry="28" fill="#83d5c7" opacity=".45"/>
+<path d="M1300 430q-60 50-70 145l-25 112h480l-25-135q-20-110-95-135z" fill="url(#coat)"/>
+<path d="M1380 430l65 80 62-80 45 28-56 118h-100l-58-118z" fill="#fff"/>
+<rect x="1394" y="260" width="155" height="190" rx="70" fill="#e7ad8c"/><path d="M1391 326q-20-105 65-126 103 0 103 104l-30-18-25-43q-55 37-111 25z" fill="#344263"/>
+<circle cx="1432" cy="344" r="7" fill="#344263"/><circle cx="1506" cy="344" r="7" fill="#344263"/><path d="M1450 382q21 16 42 0" fill="none" stroke="#a85e50" stroke-width="7" stroke-linecap="round"/>
+<path d="M1382 460l64 58 65-58" fill="none" stroke="#c8fff1" stroke-width="10"/><rect x="1433" y="512" width="25" height="68" rx="6" fill="#fff"/><rect x="1412" y="533" width="67" height="25" rx="6" fill="#fff"/>
+<circle cx="1710" cy="210" r="65" fill="#fff"/><path d="M1710 170v80m-40-40h80" stroke="#27b99a" stroke-width="22" stroke-linecap="round"/>
+<circle cx="1200" cy="290" r="26" fill="#6d5ce8" opacity=".3"/><circle cx="1770" cy="535" r="17" fill="#f9bf67"/>
+</svg>
